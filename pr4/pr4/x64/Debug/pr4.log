@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Учеба\Основи программуваня\pr4\pr4\Source.cpp(32,27): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+D:\Учеба\Основи программуваня\pr4\pr4\Source.cpp(36,22): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  pr4.vcxproj -> D:\Учеба\Основи программуваня\pr4\x64\Debug\pr4.exe
