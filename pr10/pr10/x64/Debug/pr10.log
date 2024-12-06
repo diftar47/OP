@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\study\OP\pr10\pr10\Source.cpp(68,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\study\OP\pr10\pr10\Source.cpp(88,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  pr10.vcxproj -> D:\study\OP\pr10\x64\Debug\pr10.exe

@@ -1,3 +1,5 @@
-﻿  Source.cpp
-D:\study\Основи программуваня\pr5\pr5\Source.cpp(6,12): warning C4101: 'j': unreferenced local variable
-  pr5.vcxproj -> D:\study\Основи программуваня\pr5\x64\Debug\pr5.exe
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (pr5.sync-conflict-20241109-234528-74TDFZT.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Source.cpp
+D:\nk07L\study\Основи программуваня\pr5\pr5\Source.cpp(37,12): warning C4101: j: неиспользованная локальная переменная
+D:\nk07L\study\Основи программуваня\pr5\pr5\Source.cpp(37,9): warning C4101: i: неиспользованная локальная переменная
+  pr5.vcxproj -> D:\nk07L\study\Основи программуваня\pr5\x64\Debug\pr5.exe

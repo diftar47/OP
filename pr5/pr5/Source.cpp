@@ -1,6 +1,37 @@
 #include <iostream>
-#include <iomanip>
 using namespace std;
+
+void fillmas(int** array, int size)
+{
+    for (int i = 0; i < size; ++i) {
+        for (int j = 0; j < size; ++j) {
+            array[i][j] = rand() % 100;
+        }
+    }
+}
+
+void showmas(int** array, int size)
+{
+    for (int i = 0; i < size; ++i)
+    {
+        for (int j = 0; j < size; ++j)
+        {
+            cout << array[i][j] << "\t";
+        }
+        cout << endl;
+    }
+}
+
+double findaverage(int** array, int size)
+{
+    double average = 0;
+
+    for (int i = 0; i < size; i++) {
+        average += array[i][i];
+    }
+
+    return average / size;
+}
 
 int main() {
     int i, j, n;
@@ -14,27 +45,9 @@ int main() {
         A[i] = new int[n];
     }
 
-    for (int i = 0; i < n; ++i) {
-        for (int j = 0; j < n; ++j) {
-            A[i][j] = rand() % 1000000000000;
-        }
-    }
-
-    for (int i = 0; i < n; ++i)
-    {
-        for (int j = 0; j < n; ++j)
-        {
-            cout << A[i][j] << "\t";
-        }
-        cout << endl;
-    }
-    double average = 0;
-
-    for (i = 0; i < n; i++) {
-        average += A[i][i];
-    }
-
-    average /= n;
+    fillmas(A, n);
+    showmas(A, n);
+    double average = findaverage(A, n);
     cout << "Average of main diagonal: " << average << endl;
 
     return 0;

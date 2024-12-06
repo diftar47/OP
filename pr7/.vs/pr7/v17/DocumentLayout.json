@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\study\\\u041E\u0441\u043D\u043E\u0432\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0443\u0432\u0430\u043D\u044F\\pr7\\",
+  "WorkspaceRootPath": "D:\\study\\OP\\pr7\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C521D558-EDA5-46A9-BAE0-253F1AC07898}|pr7\\pr7.vcxproj|D:\\study\\\u041E\u0441\u043D\u043E\u0432\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0443\u0432\u0430\u043D\u044F\\pr7\\pr7\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{C521D558-EDA5-46A9-BAE0-253F1AC07898}|pr7\\pr7.vcxproj|D:\\study\\OP\\pr7\\pr7\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C521D558-EDA5-46A9-BAE0-253F1AC07898}|pr7\\pr7.vcxproj|solutionrelative:pr7\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Source.cpp",
-              "DocumentMoniker": "D:\\study\\\u041E\u0441\u043D\u043E\u0432\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0443\u0432\u0430\u043D\u044F\\pr7\\pr7\\Source.cpp",
+              "DocumentMoniker": "D:\\study\\OP\\pr7\\pr7\\Source.cpp",
               "RelativeDocumentMoniker": "pr7\\Source.cpp",
-              "ToolTip": "D:\\study\\\u041E\u0441\u043D\u043E\u0432\u0438 \u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0443\u0432\u0430\u043D\u044F\\pr7\\pr7\\Source.cpp",
+              "ToolTip": "D:\\study\\OP\\pr7\\pr7\\Source.cpp",
               "RelativeToolTip": "pr7\\Source.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-27T12:49:29.756Z",
               "EditorCaption": ""
